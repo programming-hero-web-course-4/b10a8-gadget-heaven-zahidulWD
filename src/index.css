@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "Sora", sans-serif;
+  background-color: #F6F6F6;
+}
+
+.banner-nav .menu.menu-sm {
+  background-color: #9538E2;
+  box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.5);
+}
+
+.header-nav .active {
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.tabs-area .active {
+  color: #FFF;
+  background: #9538E2;
+  font-weight: 800;
+  box-shadow: 0px 4px 50px 0px #0B0B0B26 inset;
+
+}
