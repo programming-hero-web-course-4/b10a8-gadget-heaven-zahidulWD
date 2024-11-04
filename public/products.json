@@ -1,0 +1,321 @@
+[
+    
+    {
+      "product_id": "201",
+      "product_title": "Gaming Laptop X",
+      "product_image": "https://i.ibb.co.com/FBfbk5C/images-7.jpg",
+      "category": "Laptops",
+      "price": 1499.99,
+      "description": "High-performance gaming laptop with powerful graphics.",
+      "Specification": [
+        { "key": "Processor", "value": "Intel i7" },
+        { "key": "RAM", "value": "16GB" },
+        { "key": "Storage", "value": "1TB SSD" },
+        { "key": "Screen Size", "value": "15.6 inches" }
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": { "warranty": "1 year", "brand": "GamingPro" }
+    },
+    {
+      "product_id": "202",
+      "product_title": "Ultrabook 14",
+      "product_image": "https://i.ibb.co.com/pwRpbcb/download.jpg",
+      "category": "Laptops",
+      "price": 999.99,
+      "description": "Sleek and lightweight laptop for professionals.",
+      "Specification": [
+        { "key": "Processor", "value": "Intel i5" },
+        { "key": "RAM", "value": "8GB" },
+        { "key": "Storage", "value": "512GB SSD" },
+        { "key": "Screen Size", "value": "14 inches" }
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "other_field": { "warranty": "1 year", "brand": "UltraTech" }
+    },
+    {
+      "product_id": "203",
+      "product_title": "2-in-1 Laptop",
+      "product_image": "https://i.ibb.co.com/BZbrtWz/download-1.jpg",
+      "category": "Laptops",
+      "price": 849.99,
+      "description": "Versatile laptop that converts into a tablet.",
+      "Specification": [
+        { "key": "Processor", "value": "Intel i5" },
+        { "key": "RAM", "value": "16GB" },
+        { "key": "Storage", "value": "256GB SSD" },
+        { "key": "Screen Size", "value": "13.3 inches" }
+      ],
+      "availability": true,
+      "rating": 4.3,
+      "other_field": { "warranty": "1 year", "brand": "FlexiTech" }
+    },
+    {
+      "product_id": "204",
+      "product_title": "Business Laptop",
+      "product_image": "https://i.ibb.co.com/sJVPTdW/images.jpg",
+      "category": "Laptops",
+      "price": 1099.99,
+      "description": "Designed for business professionals with robust performance.",
+      "Specification": [
+        { "key": "Processor", "value": "Intel i7" },
+        { "key": "RAM", "value": "16GB" },
+        { "key": "Storage", "value": "1TB HDD" },
+        { "key": "Screen Size", "value": "15.6 inches" }
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "other_field": { "warranty": "1 year", "brand": "BizTech" }
+    },
+    {
+      "product_id": "205",
+      "product_title": "Budget Laptop",
+      "product_image": "https://i.ibb.co.com/nfWycPM/images-1.jpg",
+      "category": "Laptops",
+      "price": 399.99,
+      "description": "Affordable laptop for everyday tasks.",
+      "Specification": [
+        { "key": "Processor", "value": "Intel i3" },
+        { "key": "RAM", "value": "4GB" },
+        { "key": "Storage", "value": "128GB SSD" },
+        { "key": "Screen Size", "value": "14 inches" }
+      ],
+      "availability": true,
+      "rating": 4.0,
+      "other_field": { "warranty": "1 year", "brand": "ValueTech" }
+    },
+  
+    {
+      "product_id": "301",
+      "product_title": "Android Smartphone Z",
+      "product_image": "https://i.ibb.co.com/RvFC2NX/download-2.jpg",
+      "category": "Phones",
+      "price": 699.99,
+      "description": "Feature-rich smartphone with stunning display.",
+      "Specification": [
+        { "key": "Screen Size", "value": "6.5 inches" },
+        { "key": "Camera", "value": "64MP" },
+        { "key": "Battery", "value": "4500mAh" }
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "other_field": { "warranty": "1 year", "brand": "SmartTech" }
+    },
+    {
+      "product_id": "302",
+      "product_title": "Budget Phone",
+      "product_image": "https://i.ibb.co.com/5BFPTNN/download-3.jpg",
+      "category": "Phones",
+      "price": 299.99,
+      "description": "Affordable smartphone for basic use.",
+      "Specification": [
+        { "key": "Screen Size", "value": "6.1 inches" },
+        { "key": "Camera", "value": "12MP" },
+        { "key": "Battery", "value": "3000mAh" }
+      ],
+      "availability": true,
+      "rating": 4.2,
+      "other_field": { "warranty": "6 months", "brand": "ValuePhone" }
+    },
+    {
+      "product_id": "303",
+      "product_title": "Premium Smartphone X",
+      "product_image": "https://i.ibb.co.com/60BjX5V/images-2.jpg",
+      "category": "Phones",
+      "price": 999.99,
+      "description": "High-end smartphone with exceptional performance.",
+      "Specification": [
+        { "key": "Screen Size", "value": "6.7 inches" },
+        { "key": "Camera", "value": "108MP" },
+        { "key": "Battery", "value": "5000mAh" }
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "other_field": { "warranty": "1 year", "brand": "EliteTech" }
+    },
+  
+    {
+      "product_id": "401",
+      "product_title": "Laptop Bag",
+      "product_image": "https://i.ibb.co.com/m0fSxCf/1.jpg",
+      "category": "Accessories",
+      "price": 49.99,
+      "description": "Stylish and durable laptop bag for protection.",
+      "Specification": [
+        { "key": "Material", "value": "Water-resistant" },
+        { "key": "Size", "value": "15.6 inches" },
+        { "key": "Color", "value": "Black" }
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "other_field": { "warranty": "1 year", "brand": "BagPro" }
+    },
+    {
+      "product_id": "402",
+      "product_title": "Wireless Mouse",
+      "product_image": "https://i.ibb.co.com/gTq319s/download-4.jpg",
+      "category": "Accessories",
+      "price": 29.99,
+      "description": "Ergonomic wireless mouse for comfortable use.",
+      "Specification": [
+        { "key": "Connectivity", "value": "Bluetooth" },
+        { "key": "Battery Life", "value": "12 months" },
+        { "key": "Color", "value": "Blue" }
+      ],
+      "availability": true,
+      "rating": 4.3,
+      "other_field": { "warranty": "1 year", "brand": "ComfortTech" }
+    },
+    {
+      "product_id": "403",
+      "product_title": "Laptop Stand",
+      "product_image": "https://i.ibb.co.com/4s8JkDQ/images-3.jpg",
+      "category": "Accessories",
+      "price": 39.99,
+      "description": "Adjustable laptop stand for better ergonomics.",
+      "Specification": [
+        { "key": "Material", "value": "Aluminum" },
+        { "key": "Color", "value": "Silver" },
+        { "key": "Adjustable Height", "value": "Yes" }
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "other_field": { "warranty": "1 year", "brand": "StandPro" }
+    },
+    {
+        "product_id": "501",
+        "product_title": "Fitness Smartwatch A",
+        "product_image": "https://i.ibb.co.com/f9FJjct/download-5.jpg",
+        "category": "Smart Watches",
+        "price": 199.99,
+        "description": "Track your fitness activities with style.",
+        "Specification": [
+          { "key": "Battery Life", "value": "10 days" },
+          { "key": "Water Resistance", "value": "IP68" },
+          { "key": "Color", "value": "Black" }
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "other_field": { "warranty": "1 year", "brand": "FitTrack" }
+      },
+      {
+        "product_id": "502",
+        "product_title": "Luxury Smartwatch B",
+        "product_image": "https://i.ibb.co.com/MfWyKGH/download-6.jpg",
+        "category": "Smart Watches",
+        "price": 349.99,
+        "description": "Elegant smartwatch with advanced features.",
+        "Specification": [
+          { "key": "Battery Life", "value": "5 days" },
+          { "key": "Water Resistance", "value": "IP67" },
+          { "key": "Color", "value": "Rose Gold" }
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "other_field": { "warranty": "1 year", "brand": "LuxuryFit" }
+      },
+      {
+        "product_id": "503",
+        "product_title": "Sports Smartwatch C",
+        "product_image": "https://i.ibb.co.com/N3cMqy5/download-7.jpg",
+        "category": "Smart Watches",
+        "price": 249.99,
+        "description": "Designed for athletes with health tracking.",
+        "Specification": [
+          { "key": "Battery Life", "value": "12 days" },
+          { "key": "GPS", "value": "Yes" },
+          { "key": "Color", "value": "Blue" }
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "other_field": { "warranty": "1 year", "brand": "SportTech" }
+      },
+      {
+        "product_id": "504",
+        "product_title": "Smartwatch D",
+        "product_image": "https://i.ibb.co.com/j8XDsG8/download-8.jpg",
+        "category": "Smart Watches",
+        "price": 159.99,
+        "description": "Affordable smartwatch with essential features.",
+        "Specification": [
+          { "key": "Battery Life", "value": "7 days" },
+          { "key": "Notifications", "value": "Yes" },
+          { "key": "Color", "value": "Black" }
+        ],
+        "availability": true,
+        "rating": 4.3,
+        "other_field": { "warranty": "1 year", "brand": "SmartLife" }
+      },
+    
+      
+      {
+        "product_id": "601",
+        "product_title": "MacBook Air 2023",
+        "product_image": "https://i.ibb.co.com/7nsvYVZ/images-4.jpg",
+        "category": "MacBook",
+        "price": 999.99,
+        "description": "Ultra-thin and lightweight MacBook with M1 chip.",
+        "Specification": [
+          { "key": "Processor", "value": "Apple M1" },
+          { "key": "RAM", "value": "8GB" },
+          { "key": "Storage", "value": "256GB SSD" },
+          { "key": "Screen Size", "value": "13.3 inches" }
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": { "warranty": "1 year", "brand": "Apple" }
+      },
+      {
+        "product_id": "602",
+        "product_title": "MacBook Pro 2023",
+        "product_image": "https://i.ibb.co.com/MsD7PMR/images-5.jpg",
+        "category": "MacBook",
+        "price": 1299.99,
+        "description": "Powerful MacBook for professionals with M1 Pro chip.",
+        "Specification": [
+          { "key": "Processor", "value": "Apple M1 Pro" },
+          { "key": "RAM", "value": "16GB" },
+          { "key": "Storage", "value": "512GB SSD" },
+          { "key": "Screen Size", "value": "14 inches" }
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "other_field": { "warranty": "1 year", "brand": "Apple" }
+      },
+    
+      
+      {
+        "product_id": "701",
+        "product_title": "iPhone 14",
+        "product_image": "https://i.ibb.co.com/1qvFhYk/download-9.jpg",
+        "category": "Iphone",
+        "price": 799.99,
+        "description": "Latest iPhone with exceptional camera and performance.",
+        "Specification": [
+          { "key": "Screen Size", "value": "6.1 inches" },
+          { "key": "Camera", "value": "12MP Dual" },
+          { "key": "Battery", "value": "3240mAh" }
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": { "warranty": "1 year", "brand": "Apple" }
+      },
+      {
+        "product_id": "702",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/MGfZF8T/images-6.jpg",
+        "category": "Iphone",
+        "price": 999.99,
+        "description": "Pro model with advanced features and triple camera.",
+        "Specification": [
+          { "key": "Screen Size", "value": "6.7 inches" },
+          { "key": "Camera", "value": "12MP Triple" },
+          { "key": "Battery", "value": "4323mAh" }
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "other_field": { "warranty": "1 year", "brand": "Apple" }
+      }
+  
+]
