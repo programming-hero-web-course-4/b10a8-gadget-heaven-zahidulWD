@@ -24,5 +24,34 @@ body {
   background: #9538E2;
   font-weight: 800;
   box-shadow: 0px 4px 50px 0px #0B0B0B26 inset;
+}
 
+.dashboard-area .react-tabs__tab {
+  border: 1px solid #FFFFFF;
+  padding: 14px 64px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22.68px;
+  border-radius: 32px;
+  color: #FFFFFF;
+  margin: 0 12px;
+}
+.dashboard-area .react-tabs__tab--selected {
+  background-color: #FFFFFF;
+  color: #9538E2;
+  font-weight: 800;
+}
+
+.dashboard-area .react-tabs__tab--selected::after {
+  display: none;
+}
+
+@media screen and (max-width: 640px) {
+  .dashboard-area .react-tabs__tab {
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 32px;
+    margin: 0 8px;
+  }
 }

@@ -1,7 +1,7 @@
 [
     
     {
-      "product_id": "201",
+      "product_id": 201,
       "product_title": "Gaming Laptop X",
       "product_image": "https://i.ibb.co.com/FBfbk5C/images-7.jpg",
       "category": "Laptops",
@@ -18,7 +18,7 @@
       "other_field": { "warranty": "1 year", "brand": "GamingPro" }
     },
     {
-      "product_id": "202",
+      "product_id": 202,
       "product_title": "Ultrabook 14",
       "product_image": "https://i.ibb.co.com/pwRpbcb/download.jpg",
       "category": "Laptops",
@@ -35,7 +35,7 @@
       "other_field": { "warranty": "1 year", "brand": "UltraTech" }
     },
     {
-      "product_id": "203",
+      "product_id": 203,
       "product_title": "2-in-1 Laptop",
       "product_image": "https://i.ibb.co.com/BZbrtWz/download-1.jpg",
       "category": "Laptops",
@@ -52,7 +52,7 @@
       "other_field": { "warranty": "1 year", "brand": "FlexiTech" }
     },
     {
-      "product_id": "204",
+      "product_id": 204,
       "product_title": "Business Laptop",
       "product_image": "https://i.ibb.co.com/sJVPTdW/images.jpg",
       "category": "Laptops",
@@ -69,7 +69,7 @@
       "other_field": { "warranty": "1 year", "brand": "BizTech" }
     },
     {
-      "product_id": "205",
+      "product_id": 205,
       "product_title": "Budget Laptop",
       "product_image": "https://i.ibb.co.com/nfWycPM/images-1.jpg",
       "category": "Laptops",
@@ -87,7 +87,7 @@
     },
   
     {
-      "product_id": "301",
+      "product_id": 301,
       "product_title": "Android Smartphone Z",
       "product_image": "https://i.ibb.co.com/RvFC2NX/download-2.jpg",
       "category": "Phones",
@@ -103,7 +103,7 @@
       "other_field": { "warranty": "1 year", "brand": "SmartTech" }
     },
     {
-      "product_id": "302",
+      "product_id": 302,
       "product_title": "Budget Phone",
       "product_image": "https://i.ibb.co.com/5BFPTNN/download-3.jpg",
       "category": "Phones",
@@ -119,7 +119,7 @@
       "other_field": { "warranty": "6 months", "brand": "ValuePhone" }
     },
     {
-      "product_id": "303",
+      "product_id": 303,
       "product_title": "Premium Smartphone X",
       "product_image": "https://i.ibb.co.com/60BjX5V/images-2.jpg",
       "category": "Phones",
@@ -136,7 +136,7 @@
     },
   
     {
-      "product_id": "401",
+      "product_id": 401,
       "product_title": "Laptop Bag",
       "product_image": "https://i.ibb.co.com/m0fSxCf/1.jpg",
       "category": "Accessories",
@@ -152,7 +152,7 @@
       "other_field": { "warranty": "1 year", "brand": "BagPro" }
     },
     {
-      "product_id": "402",
+      "product_id": 402,
       "product_title": "Wireless Mouse",
       "product_image": "https://i.ibb.co.com/gTq319s/download-4.jpg",
       "category": "Accessories",
@@ -168,7 +168,7 @@
       "other_field": { "warranty": "1 year", "brand": "ComfortTech" }
     },
     {
-      "product_id": "403",
+      "product_id": 403,
       "product_title": "Laptop Stand",
       "product_image": "https://i.ibb.co.com/4s8JkDQ/images-3.jpg",
       "category": "Accessories",
@@ -184,7 +184,7 @@
       "other_field": { "warranty": "1 year", "brand": "StandPro" }
     },
     {
-        "product_id": "501",
+        "product_id": 501,
         "product_title": "Fitness Smartwatch A",
         "product_image": "https://i.ibb.co.com/f9FJjct/download-5.jpg",
         "category": "Smart Watches",
@@ -200,7 +200,7 @@
         "other_field": { "warranty": "1 year", "brand": "FitTrack" }
       },
       {
-        "product_id": "502",
+        "product_id": 502,
         "product_title": "Luxury Smartwatch B",
         "product_image": "https://i.ibb.co.com/MfWyKGH/download-6.jpg",
         "category": "Smart Watches",
@@ -216,7 +216,7 @@
         "other_field": { "warranty": "1 year", "brand": "LuxuryFit" }
       },
       {
-        "product_id": "503",
+        "product_id": 503,
         "product_title": "Sports Smartwatch C",
         "product_image": "https://i.ibb.co.com/N3cMqy5/download-7.jpg",
         "category": "Smart Watches",
@@ -232,7 +232,7 @@
         "other_field": { "warranty": "1 year", "brand": "SportTech" }
       },
       {
-        "product_id": "504",
+        "product_id": 504,
         "product_title": "Smartwatch D",
         "product_image": "https://i.ibb.co.com/j8XDsG8/download-8.jpg",
         "category": "Smart Watches",
@@ -250,7 +250,7 @@
     
       
       {
-        "product_id": "601",
+        "product_id": 601,
         "product_title": "MacBook Air 2023",
         "product_image": "https://i.ibb.co.com/7nsvYVZ/images-4.jpg",
         "category": "MacBook",
@@ -267,7 +267,7 @@
         "other_field": { "warranty": "1 year", "brand": "Apple" }
       },
       {
-        "product_id": "602",
+        "product_id": 602,
         "product_title": "MacBook Pro 2023",
         "product_image": "https://i.ibb.co.com/MsD7PMR/images-5.jpg",
         "category": "MacBook",
@@ -286,7 +286,7 @@
     
       
       {
-        "product_id": "701",
+        "product_id": 701,
         "product_title": "iPhone 14",
         "product_image": "https://i.ibb.co.com/1qvFhYk/download-9.jpg",
         "category": "Iphone",
@@ -302,7 +302,7 @@
         "other_field": { "warranty": "1 year", "brand": "Apple" }
       },
       {
-        "product_id": "702",
+        "product_id": 702,
         "product_title": "iPhone 14 Pro",
         "product_image": "https://i.ibb.co.com/MGfZF8T/images-6.jpg",
         "category": "Iphone",

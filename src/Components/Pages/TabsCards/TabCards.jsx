@@ -8,13 +8,17 @@ const TabCards = () => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        const filterProducts = cards.filter(item => item.category === category);
-        setProducts(filterProducts);
+        if (category) {
+            const filterProducts = cards.filter(item => item.category === category);
+            setProducts(filterProducts);
+        } else {
+            setProducts(cards);
+        }
     }, [cards, category]);
 
     return (
         <div>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
+            <div className='grid sm:grid-cols-2 xl:grid-cols-3 gap-6'>
                 {products.map(card => (
                     <TabCard key={card.product_id} card={card} />
                 ))}
