@@ -7,7 +7,7 @@ const Navbar = ({ cartItemCount, wishlistCount }) => {
 
     const location = useLocation();
     
-    // Navbar item color based on location
+
     const isHomePage = location.pathname === '/';
 
     const links = <>

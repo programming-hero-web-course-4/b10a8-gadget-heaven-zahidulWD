@@ -7,7 +7,7 @@ import Tabs from '../Tabs/Tabs';
 const Home = () => {
 
     const tabs = useLoaderData();
-    // const { cartItemCount, setCartItemCount } = useOutletContext();
+
 
     return (
         <div className='main-banner'>
@@ -15,10 +15,9 @@ const Home = () => {
                 <div className='bg-[#9538E2] border-[7px] border-[#F6F6F6] text-center rounded-3xl md:rounded-[32px] mb-20 md:mb-[190px] lg:mb-[350px] xl:mb-[490px]'>
                     <div className=''>
                         <div className='text-white banner-nav mb-7 pt-3'>
-                            {/* <Navbar cartItemCount={cartItemCount}></Navbar> */}
                         </div>
 
-                        {/* banner-area */}
+
                         <div className="banner-area container px-4 sm:px-10 md:px-14 lg:px-24 xl:px-0 xl:max-w-[1100px] 2xl:max-w-[1280px] mx-auto pt-14">
                             <h1 className='lg:leading-none text-xl px-4 sm:px-0 md:text-3xl lg:text-[56px] font-bold text-white md:mb-6 mb-3'>Upgrade Your Tech Accessorize with <br className='hidden sm:block md:hidden' /> Gadget Heaven Accessories</h1>
                             <p className='text-[12px] md:text-base font-normal text-white mb-4 md:mb-8 px-4 sm:px-0'>Explore the latest gadgets that will take your experience to <br className='hidden sm:block' /> the next level. From smart devices to the coolest accessories, we have it all!</p>
@@ -29,7 +28,7 @@ const Home = () => {
                 </div>
             </div>
 
-            {/* Gadgets-tabs-area */}
+
             <div className='gadgets-tabs-area'>
                 <div className='container px-4 sm:px-10 md:px-14 lg:px-24 xl:px-0 xl:max-w-[1100px] 2xl:max-w-[1280px] mx-auto'>
                     <h2 className='text-xl md:text-[40px] font-bold text-[#0B0B0B] text-center mb-12'>Explore Cutting-Edge Gadgets</h2>
