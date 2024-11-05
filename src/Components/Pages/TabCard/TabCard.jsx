@@ -6,7 +6,7 @@ const TabCard = ({ card }) => {
 
     return (
         <div className='bg-white p-5 rounded-2xl flex flex-col'>
-            <img src={product_image} alt={product_title} className='w-full h-auto rounded-lg' />
+            <img src={product_image} alt={product_title} className='w-full h-60 object-contain' />
             <h2 className='text-2xl text-[#09080F] font-semibold mt-6 mb-3'>{product_title}</h2>
             <p className='text-xl font-medium text-[#09080F99] flex-grow'>Price: {price}k</p>
             <div>
