@@ -24,7 +24,7 @@ const ProductDetails = () => {
     const handleAddToCard = (id) => {
         const storedList = getStoredCardList();
         if (storedList.includes(id)) {
-            // Show error toast if product is already in cart
+            
             toast.error("Product is already in the cart!", {
                 position: "top-center",
                 autoClose: 2000,
@@ -35,13 +35,14 @@ const ProductDetails = () => {
                 position: "top-center",
                 autoClose: 2000,
             });
+
         }
     }
 
     const handleAddToWishList = (id) => {
         const storedWishList = getStoredWishList();
         if (storedWishList.includes(id)) {
-            // Show error toast if product is already in wishlist
+          
             toast.error("Product is already in the wishlist!", {
                 position: "top-center",
                 autoClose: 2000,
@@ -57,7 +58,7 @@ const ProductDetails = () => {
 
     return (
         <div className="mb-[100px]">
-            {/* Toast Container */}
+           
             <ToastContainer />
 
             <div className='products-details-banner bg-[#9538E2] pt-8 pb-[235px] text-center'>
@@ -84,7 +85,7 @@ const ProductDetails = () => {
                         </ol>
                         <strong className="text-base lg:text-[18px] font-bold text-[#09080F] mb-3 inline-block">Rating ⭐ </strong>
                         <div className="flex items-center gap-4">
-                            {/* Rating Stars Component */}
+                           
                             <ReactStars
                                 count={5}
                                 onChange={ratingChanged}
@@ -95,7 +96,6 @@ const ProductDetails = () => {
                             <span className="text-[14px] font-medium text-[#09080FCC] py-[7px] px-[14px] rounded-[32px] bg-[#09080F0D]">{rating}</span>
                         </div>
 
-                        {/* Add to Cart and Wishlist Buttons */}
                         <div className="flex gap-4 items-center mt-4">
                             <button onClick={() => handleAddToCard(productId)} className="btn h-auto min-h-0 text-[18px] font-bold text-white bg-[#9538E2] rounded-[32px] py-3 px-[22px]" type="button">Add To Cart <img src={ShopImg2} alt="image" /></button>
                             <button onClick={() => handleAddToWishList(productId)} type="button"><img src={WishListImg} alt="image" /></button>

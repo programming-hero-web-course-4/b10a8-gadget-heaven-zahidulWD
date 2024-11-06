@@ -4,6 +4,7 @@ import Footer from '../Pages/Footer/Footer';
 import { useState, useEffect } from 'react';
 
 const Root = () => {
+    
     const location = useLocation();
     const [cartItemCount, setCartItemCount] = useState(0);
     const [wishlistCount, setWishlistCount] = useState(0);
